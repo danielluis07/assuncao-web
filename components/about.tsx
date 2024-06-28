@@ -19,7 +19,8 @@ export default function About() {
       <SectionHeading>Sobre mim</SectionHeading>
       <p className="mb-3">
         Após percorrer a carreira jurídica por alguns anos, acabei me
-        apaixonando pela programação. Comecei estudando por conta prória e
+        apaixonando pela programação. Comecei estudando por conta prória em
+        2020, enquanto ainda conciliava com meu outro emprego. Desde então
         adquiri vários certificados, me especializando no desenvolvimento{" "}
         <span className="font-medium">Front-end</span>.{" "}
         <span className="italic">Minha parte favorita da programação</span> é o
