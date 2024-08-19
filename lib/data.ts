@@ -120,7 +120,7 @@ export const projectsData = [
     description:
       "Um blog sobre NFL e NBA. Além de artigos de opinião, há também notícias e estatísticas sobre os esportes. Há integração com um dashboard que está em desenvolvimento",
     tags: ["React", "Next.js", "Drizzle", "Tailwind", "Hono.js", "Shadcn/ui"],
-    url: "https://playmaker-iota.vercel.app",
+    url: "https://playmaker-five.vercel.app",
     imageUrl: playmaker,
   },
   {
